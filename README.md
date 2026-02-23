@@ -1,16 +1,42 @@
 ## Hi there 👋
 
+Im Efren Navarro A Cybersecurity Student | Aspiring Penetration Tester
+
+I am passionate about ethical hacking, vulnerability assessment, and network security.  
+currently building real world cybersecurity projects to develop practical skills.
+
+## 🛡️ About Me
+
+* Cybersecurity student  
+* Future Penetration Tester/ Data Analyst 
+* Focused on offensive security and Data Analysis
+* Actively seeking a Cybersecurity Internship  
+
+## ⚙️ Skills
+
+*Operating Systems*
+- Linux (Kali Linux)
+- Windows
+
+*Security Tools*
+- Nmap
+- Burp Suite
+
+*Networking*
+- TCP/IP
+- Network Scanning
+- Enumeration
+
+## 📂 Cybersecurity Projects
+
+Coming soon...
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/efren-navarro-62ba45267/?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+Email: Cuboscubik606@gmail.com
+
+Documenting my journey to becoming a Cybersecurity Professional.
 <!--
-**EfrenNavarroCastillo/EfrenNavarroCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

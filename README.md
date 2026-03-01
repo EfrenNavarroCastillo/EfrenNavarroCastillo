@@ -29,7 +29,7 @@ currently building real world cybersecurity projects to develop practical skills
 
 ## 📂 Cybersecurity Projects
 
-- Wireless Security Assessment wireless-network-security-assessment README.md
+- Wireless Security Assessment 
 
 ---
 

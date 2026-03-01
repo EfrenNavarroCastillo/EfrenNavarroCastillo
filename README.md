@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im Efren Navarro A Cybersecurity Student | Aspiring Penetration Tester
+Im Efren Navarro A Cybersecurity Student | Aspiring Penetration Tester/Data Analyst
 
 I am passionate about ethical hacking, vulnerability assessment, and network security.  
 currently building real world cybersecurity projects to develop practical skills.

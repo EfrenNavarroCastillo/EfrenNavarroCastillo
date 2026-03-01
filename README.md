@@ -29,7 +29,7 @@ currently building real world cybersecurity projects to develop practical skills
 
 ## 📂 Cybersecurity Projects
 
-- Wireless Security Assessment 
+- Wireless Security Assessment: https://github.com/EfrenNavarroCastillo/Cybersecurity-Portfolio/blob/main/wireless-network-security-assessment%20README.md
 
 ---
 
